@@ -2,5 +2,4 @@
 
 ## Recursos
 
-[Publishing Camera Trap Data: A Best Practice Guide](https://www.gbif.org/document/1o6HNHuCxKaiAC8yG86gQq/publishing-camera-trap-data-a-best-practice-guide)
-
+Cadman M & González-Talaván A (eds.) (2014). Publishing Camera Trap Data: A Best Practice Guide. Copenhagen: Global Biodiversity Information Facility. Disponible en [https://www.gbif.org/document/1o6HNHuCxKaiAC8yG86gQq](https://www.gbif.org/document/1o6HNHuCxKaiAC8yG86gQq).
